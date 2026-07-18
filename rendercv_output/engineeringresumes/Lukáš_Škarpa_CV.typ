@@ -15,7 +15,7 @@
   page-left-margin: 0.7in,
   page-right-margin: 0.7in,
   page-show-footer: false,
-  page-show-top-note: true,
+  page-show-top-note: false,
   colors-body: rgb(0, 0, 0),
   colors-name: rgb(0, 79, 144),
   colors-headline: rgb(0, 79, 144),
@@ -86,13 +86,22 @@
 )
 
 
+#grid(
+  columns: (auto, 1fr),
+  column-gutter: 0cm,
+  align: horizon + left,
+  [#pad(left: 0.4cm, right: 0.4cm, image("profile_photo.png", width: 3.5cm))
+],
+  [
 = Lukáš Škarpa
 
 #connections(
   [Pitín 32, Zlínský kraj, Czech Republic],
-  [#link("mailto:lukas.skarpa.bata@gmail.com", icon: false, if-underline: false, if-color: false)[lukas.skarpa.bata\@gmail.com]],
+  [#link("mailto:lukskarpa@gmail.com", icon: false, if-underline: false, if-color: false)[lukskarpa\@gmail.com]],
   [#link("tel:+420-737-117-624", icon: false, if-underline: false, if-color: false)[737 117 624]],
-  [#link("https://github.com/lukasskarpa", icon: false, if-underline: false, if-color: false)[github.com\/lukasskarpa]],
+  [#link("https://github.com/luky12cz", icon: false, if-underline: false, if-color: false)[github.com\/luky12cz]],
+)
+  ]
 )
 
 
