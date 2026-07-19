@@ -136,7 +136,7 @@ Ambitious 19-year-old Computer Science student with hands-on experience deliveri
 
   ],
   [
-    Jan 2025 – Aug 2025
+    Oct 2025 – May 2026
 
   ],
   main-column-second-row: [
@@ -155,7 +155,7 @@ Ambitious 19-year-old Computer Science student with hands-on experience deliveri
 
   ],
   [
-    Sept 2024 – Jan 2025
+    June 2025 – Sept 2025
 
   ],
   main-column-second-row: [

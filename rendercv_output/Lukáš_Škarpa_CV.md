@@ -22,7 +22,7 @@ Sept 2022 – June 2026
 # Experience
 ## **Freelance Web Developer**, Bata (Freelance Contract, via internship placement) -- Remote / Zlín, Czech Republic
 
-Jan 2025 – Aug 2025
+Oct 2025 – May 2026
 
 - Continued collaborating with Bata's international web team as an independent contractor following the internship, taking on greater ownership of platform updates.
 
@@ -34,7 +34,7 @@ Jan 2025 – Aug 2025
 
 ## **Web Development Intern**, Bata Zlín MDC -- Zlín, Czech Republic
 
-Sept 2024 – Jan 2025
+June 2025 – Sept 2025
 
 - Full member of the Czech team managing Bata's global web platforms.
 

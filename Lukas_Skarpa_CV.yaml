@@ -25,8 +25,8 @@ cv:
     experience:
       - company: Bata (Freelance Contract, via internship placement)
         position: Freelance Web Developer
-        start_date: 2025-01
-        end_date: 2025-08
+        start_date: 2025-10
+        end_date: 2026-05
         location: Remote / Zlín, Czech Republic
         highlights:
           - "Continued collaborating with Bata's international web team as an independent contractor following the internship, taking on greater ownership of platform updates."
@@ -35,8 +35,8 @@ cv:
 
       - company: Bata Zlín MDC
         position: Web Development Intern
-        start_date: 2024-09
-        end_date: 2025-01
+        start_date: 2025-06
+        end_date: 2025-09
         location: Zlín, Czech Republic
         highlights:
           - "Full member of the Czech team managing Bata's global web platforms."
